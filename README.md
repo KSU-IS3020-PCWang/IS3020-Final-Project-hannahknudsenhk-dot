@@ -2,14 +2,15 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Hannah Knudsen
+- GitHub username: hannahknudsenhk-dot
+- Project title: Concert Ticket Application
+- Application purpose: Allows the user to browse concerts available, select number of tickets desired, receive a total price and the purchase confirmation
 
 ## How to Run the Application
 
 Explain the required Python version, required files, and the exact steps for starting the application in PyCharm.
+
 
 ## Major Features
 
